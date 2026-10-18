@@ -1,4 +1,4 @@
-# 中文办公常用的中文字体（字库）
+# 常用中文办公字体（字库）
 
 ## Common Chinese office fonts (font library)
 
