@@ -11,8 +11,6 @@
 
 正文 3号 仿宋 字：[仿宋](https://github.com/chnzhh/fonts/blob/main/%E4%BB%BF%E5%AE%8B.ttf)、[仿宋_GB2312](https://github.com/chnzhh/fonts/blob/main/%E4%BB%BF%E5%AE%8B_GB2312.ttf)
 
-> 方正小标宋简体基于‌GB2312标准，支持6763个常用简体汉字；
-
-> 方正小标宋GBK基于‌GBK标准，支持21003个字符，涵盖‌简体字、‌繁体字及‌生僻字。
+> 方正小标宋简体基于‌GB2312标准，支持6763个常用简体汉字；方正小标宋GBK基于‌GBK标准，支持21003个字符，涵盖‌简体字、‌繁体字及‌生僻字。
 
 
