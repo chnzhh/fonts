@@ -10,9 +10,9 @@
 
 * 一级标题、 一般用 3号 黑体 字：[黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf)
 
-  “附件”二字及附件顺序号，出席人员名单标注 一般用 3号 黑体 字，后标 全角冒号 。
+  “附件”二字及附件顺序号、出席人员名单标注 一般用 3号 黑体 字，后标 全角冒号 。
 
-* 二级标题 一般用 3号 楷体 字 加粗：[楷体](https://github.com/chnzhh/fonts/blob/main/%E6%A5%B7%E4%BD%93.ttf)、[楷体_GB2312](https://github.com/chnzhh/fonts/blob/main/%E6%A5%B7%E4%BD%93_GB2312.ttf)
+* 二级标题 一般用 3号 楷体 字：[楷体](https://github.com/chnzhh/fonts/blob/main/%E6%A5%B7%E4%BD%93.ttf)、[楷体_GB2312](https://github.com/chnzhh/fonts/blob/main/%E6%A5%B7%E4%BD%93_GB2312.ttf)
 
 * 正文、三级标题和四级标题 一般用 3号 仿宋体 字,：[仿宋](https://github.com/chnzhh/fonts/blob/main/%E4%BB%BF%E5%AE%8B.ttf)、[仿宋_GB2312](https://github.com/chnzhh/fonts/blob/main/%E4%BB%BF%E5%AE%8B_GB2312.ttf)
 
