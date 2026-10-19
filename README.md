@@ -23,7 +23,7 @@
 > 方正小标宋简体基于‌GB2312标准，支持6763个常用简体汉字；方正小标宋GBK基于‌GBK标准，支持21003个字符，涵盖‌简体字、‌繁体字及‌生僻字。
 
 
-## 常用公文字体/ Chinese office fonts
+## 常用公文字体 / Common Chinese office fonts
 
 如无特殊说明，公文格式各要素一般用 3号 仿宋体 字。
 
@@ -46,7 +46,7 @@
 > 执行标准：[《党政机关公文格式》（GB/T 9704-2012）](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=F3CC9BEF482524C895FDA7A08BB4A70E)，部分字体（字库）仅供非商业用途使用，如需商业用途使用，请自行联系字体（字库）厂商获取使用授权。
 
 
-## 常用论文字体
+## 常用论文字体 / Common Academic Paper fonts
 
 * 中文论文正文一般使用 [宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc) ，小四号；标题使用 [黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf) ，不同层级标题字号不同；英文及数字部分通常使用 Times New Roman 。
 
