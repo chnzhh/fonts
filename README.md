@@ -50,9 +50,9 @@
 
 ## 3.常用论文字体 / Common Academic Paper Fonts
 
-* 中文论文正文一般使用 [宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc) ，小四号；
-* 标题使用 [黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf) ，不同层级标题字号不同；
-* 英文及数字部分通常使用 [Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf) 。
+* 正文 一般使用 小四号 [宋体]：[宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc) 
+* 标题 使用 [黑体]（不同层级标题字号不同）：[黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf) 
+* 英文及数字 部分通常使用 [Times New Roman]：[Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf)  。
 
 ### 中文部分字体要求
 
