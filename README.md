@@ -1,6 +1,6 @@
 # 常用中文字体
 
-## 常用字体（字库）简介 / Common Fonts
+## 1.常用字体（字库）简介 / Common Fonts
 | 字体 | 名称 | 厂商 | 字符集 | 备注 |
 | :----: | :----: | :----: | :----: | :----: |
 | 宋体	| `宋体`	| 中易	| GB18030	| 简体中文版 Windows 7 及以后版本的系统自带 |
@@ -24,7 +24,7 @@
 
 
 
-## 常用公文字体 / Common Chinese Office Fonts
+## 2.常用公文字体 / Common Chinese Office Fonts
 
 如无特殊说明，公文格式各要素一般用 3号 仿宋体 字。
 
@@ -48,7 +48,7 @@
 
 
 
-## 常用论文字体 / Common Academic Paper Fonts
+## 3.常用论文字体 / Common Academic Paper Fonts
 
 * 中文论文正文一般使用 [宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc) ，小四号；
 * 标题使用 [黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf) ，不同层级标题字号不同；
