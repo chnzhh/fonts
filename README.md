@@ -25,7 +25,7 @@
 
 ## 2.常用公文字体 / Common Chinese Office Fonts
 
-* 如无特殊说明，公文格式各要素一般用 3号 [仿宋体] 字。
+如无特殊说明，公文格式各要素一般用 3号 [仿宋体] 字。
 
 * 标题 一般用 2号 [小标宋体] 字：[方正小标宋GBK](https://github.com/chnzhh/fonts/blob/main/%E6%96%B9%E6%AD%A3%E5%B0%8F%E6%A0%87%E5%AE%8B_GBK.ttf)、[方正小标宋简体](https://github.com/chnzhh/fonts/blob/main/%E6%96%B9%E6%AD%A3%E5%B0%8F%E6%A0%87%E5%AE%8B%E7%AE%80%E4%BD%93.ttf)
 
