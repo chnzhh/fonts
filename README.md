@@ -55,6 +55,7 @@
 * 英文及数字部分通常使用 [Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf) 。
 
 ### 中文部分字体要求
+
 * 论文题目：黑体二号字，居中，段前段后各1行
 * 一级标题：黑体三号字，段前段后各0.5行
 * 二级标题：黑体四号字，段前段后各0.5行
@@ -62,9 +63,11 @@
 * 正文：宋体小四号字（12pt），首行缩进2字符
 * 摘要关键词：宋体小四号字，"摘要"、"关键词"为黑体小四号
 * 参考文献：宋体五号字（10.5pt），悬挂缩进2字符
+
 注释：宋体小五号字（9pt），脚注形式
 
 ### 英文及数字部分字体要求
+
 * Title：Times New Roman 16pt，加粗，居中
 * Headings：Times New Roman 12-14pt，加粗
 * Body Text：Times New Roman 12pt
