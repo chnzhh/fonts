@@ -50,7 +50,9 @@
 
 ## 常用论文字体 / Common Academic Paper Fonts
 
-* 中文论文正文一般使用 [宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc) ，小四号；标题使用 [黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf) ，不同层级标题字号不同；英文及数字部分通常使用 [Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf) 。
+* 中文论文正文一般使用 [宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc) ，小四号；
+* 标题使用 [黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf) ，不同层级标题字号不同；
+* 英文及数字部分通常使用 [Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf) 。
 
 | 论文类型	| 正文字体	| 字号	| 标题字体	| 特殊要求 |
 | :----: | :----: | :----: | :----: | :----: |
@@ -78,7 +80,7 @@
 
 ### 图表格式要求
 
-图表标题应简明扼要，图题位于图下方，表题位于表上方。字体一般为宋体五号字，英文为Times New Roman 10.5pt。
+图表标题应简明扼要，图题位于图下方，表题位于表上方。字体一般为宋体五号字，英文为 Times New Roman 10.5pt。
 
 ### 公式和特殊符号
 
