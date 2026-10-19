@@ -56,22 +56,22 @@
 
 ### 中文部分字体要求
 
-* 论文题目：二号 黑体 字，居中，段前段后各1行
-* 一级标题：三号 黑体 字，段前段后各0.5行
-* 二级标题：四号 黑体 字，段前段后各0.5行
-* 三级标题：小四号 黑体 字，段前段后各0.5行
-* 正文：小四号 宋体 字（12pt），首行缩进2字符
-* 摘要关键词：小四号 宋体 字，"摘要"、"关键词"为小四号 黑体
-* 参考文献：五号 宋体 字（10.5pt），悬挂缩进2字符
-* 注释：小五号 宋体 字（9pt），脚注形式
+* 论文题目： 二号 黑体 字，居中，段前段后各1行
+* 一级标题： 三号 黑体 字，段前段后各0.5行
+* 二级标题： 四号 黑体 字，段前段后各0.5行
+* 三级标题： 小四号 黑体 字，段前段后各0.5行
+* 正文： 小四号 宋体 字（12pt），首行缩进2字符
+* 摘要关键词： 小四号 宋体 字，"摘要"、"关键词"为 小四号 黑体 字
+* 参考文献： 五号 宋体 字（10.5pt），悬挂缩进2字符
+* 注释： 小五号 宋体 字（9pt），脚注形式
 
 ### 英文及数字部分字体要求
 
-* Title：Times New Roman 16pt，加粗，居中
-* Headings：Times New Roman 12-14pt，加粗
-* Body Text：Times New Roman 12pt
-* Abstract & Keywords：Times New Roman 11pt
-* References：Times New Roman 10-12pt
+* Title： 16pt Times New Roman 加粗 居中
+* Headings：12-14pt Times New Roman 加粗
+* Body Text：12pt Times New Roman 
+* Abstract & Keywords：11pt Times New Roman 
+* References：10-12pt Times New Roman 
 
 ### 图表格式要求
 
