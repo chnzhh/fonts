@@ -54,27 +54,3 @@
 * 标题 使用 [黑体]（不同层级标题字号不同）：[黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf)
 * 英文及数字 部分通常使用 [Times New Roman]：[Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf)
 
-### 中文部分字体要求
-
-* 论文题目： 二号 黑体 字，居中，段前段后各1行
-* 一级标题： 三号 黑体 字，段前段后各0.5行
-* 二级标题： 四号 黑体 字，段前段后各0.5行
-* 三级标题： 小四号 黑体 字，段前段后各0.5行
-* 正文： 小四号（12pt） 宋体 字，首行缩进2字符
-* 摘要关键词： 小四号 宋体 字，"摘要"、"关键词"为 小四号 黑体 字
-* 参考文献： 五号 宋体 字（10.5pt），悬挂缩进2字符
-* 注释： 小五号 宋体 字（9pt），脚注形式
-
-### 英文及数字部分字体要求
-
-* Title： 16pt Times New Roman 加粗 居中
-* Headings：12-14pt Times New Roman 加粗
-* Body Text：12pt Times New Roman 
-* Abstract & Keywords：11pt Times New Roman 
-* References：10-12pt Times New Roman 
-
-### 图表格式要求
-
-* 图表标题应简明扼要，图题位于图下方，表题位于表上方。字体一般为 五号 宋体 字，英文为 10.5pt Times New Roman 。
-
-> 重要提示：不同学校或期刊可能有具体要求，建议在写作前查阅所在机构的论文格式规范或咨询指导教师。
