@@ -8,7 +8,7 @@
 
   发文机关标志、纪要标志 推荐使用 红色 小标宋体 字。
 
-* 一级标题、 一般用 3号 黑体 字：[黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf)
+* 一级标题 一般用 3号 黑体 字：[黑体](https://github.com/chnzhh/fonts/blob/main/%E9%BB%91%E4%BD%93.ttf)
 
   “附件”二字及附件顺序号、出席人员名单标注 一般用 3号 黑体 字，后标 全角冒号 。
 
