@@ -16,7 +16,7 @@
 
 * 正文、三级标题和四级标题 一般用 3号 仿宋体 字,：[仿宋](https://github.com/chnzhh/fonts/blob/main/%E4%BB%BF%E5%AE%8B.ttf)、[仿宋_GB2312](https://github.com/chnzhh/fonts/blob/main/%E4%BB%BF%E5%AE%8B_GB2312.ttf)
 
-  抄送机关 一般用 4号 仿宋体 字，印发机关和印发日期一般用 4号 仿宋体 字；出席人单位、姓名标注 一般用 3号 仿宋体 字。
+  抄送机关 一般用 4号 仿宋体 字，印发机关和印发日期 一般用 4号 仿宋体 字；出席人单位、姓名标注 一般用 3号 仿宋体 字。
 
 * 页码 一般用 4号 半角 宋体 阿拉伯数字：[宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc)
 
