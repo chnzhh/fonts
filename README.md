@@ -1,6 +1,6 @@
 # 常用中文字体
 
-## 1.常用公文字体 / Common Chinese Office Fonts
+## 1.常用公文字体 / Office Fonts
 
 如无特殊说明，公文格式各要素一般用 3号 [仿宋体] 字。
 
@@ -23,7 +23,7 @@
 > 执行标准：[《党政机关公文格式》（GB/T 9704-2012）](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=F3CC9BEF482524C895FDA7A08BB4A70E)，部分字体（字库）仅供非商业用途使用，如需商业用途使用，请自行联系字体（字库）厂商获取使用授权。
 
 
-## 2.常用论文字体 / Common Academic Paper Fonts
+## 2.常用论文字体 / Paper Fonts
 
 * 正文 一般使用 小四号 [宋体]：[宋体](https://github.com/chnzhh/fonts/blob/main/%E5%AE%8B%E4%BD%93.ttc)
 
@@ -32,7 +32,7 @@
 * 英文及数字 部分通常使用 [Times New Roman]：[Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf)
 
 
-## 3.常用字体（字库）简介 / Common Fonts (Font Library)
+## 3.常用字体（字库） / Fonts (Font Library)
 
 | 字体 | 名称 | 厂商 | 字符集 | 备注 |
 | :----: | :----: | :----: | :----: | :----: |
