@@ -32,7 +32,7 @@
 * 英文及数字 部分通常使用 [Times New Roman]：[Times New Roman](https://github.com/chnzhh/fonts/blob/main/Times%20New%20Roman/times.ttf)
 
 
-## 3.常用字体（字库） / Fonts (Font Library)
+## 3.常用字体（字库） / Chinese Fonts (Font Library)
 
 | 字体 | 名称 | 厂商 | 字符集 | 备注 |
 | :----: | :----: | :----: | :----: | :----: |
