@@ -1,4 +1,4 @@
-# 常用中文字体
+# 常用中文字体（Common Chinese Fonts）
 
 ## 1.常用公文字体 / Office Fonts
 
